@@ -1,6 +1,6 @@
 # 2025-02-12-ia2_mt_practice
 
-I am trying to make a merge conflict
+i made my merge conflict work!
 
 hello i am practicing my version control skills for the midterm 
 
